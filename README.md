@@ -14,7 +14,7 @@ If you are interested in our work, please do not hesitate to contact us at Sunyg
 
 ## Prediction maps
 
-We provide the prediction results of our UDCNet method with different backbones under salient object detection in ORSIs.
+We provide the prediction results of our UDCNet method under salient object detection in ORSIs.
 
 UDCNet_TGRS (ResNet/PVTv2) [[baidu](https://pan.baidu.com/s/1jcN58vjzANPt3zJ3cvipXg),PIN:1gj6] 
 
