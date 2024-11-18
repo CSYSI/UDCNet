@@ -18,3 +18,30 @@ We provide the prediction results of our UDCNet method under salient object dete
 
 UDCNet_TGRS (ResNet/PVTv2) [[baidu](https://pan.baidu.com/s/1jcN58vjzANPt3zJ3cvipXg),PIN:1gj6] 
 
+
+## Citation
+
+If you use GLCONet method in your research or wish to refer to the baseline results published in the Model, please use the following BibTeX entry.
+
+```
+@article{UDCNet,
+  title={United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images},
+  author={Sun, Yanguang and Yang, Jian and Luo, Lei},
+  journal={arXiv preprint arXiv:2411.06703},
+  year={2024}
+}
+```
+```
+
+@article{UDCNet,
+  title={United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images},
+  author={Sun, Yanguang and Yang, Jian and Luo, Lei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={},
+  pages={1--14}, 
+  year={2024},
+  publisher={IEEE},
+  doi={10.1109/TGRS.2024.3497579},
+}
+```
+
