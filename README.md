@@ -21,7 +21,7 @@ UDCNet_TGRS (ResNet/PVTv2) [[baidu](https://pan.baidu.com/s/1jcN58vjzANPt3zJ3cvi
 
 ## Citation
 
-If you use GLCONet method in your research or wish to refer to the baseline results published in the Model, please use the following BibTeX entry.
+If you use UDCNet method in your research or wish to refer to the baseline results published in the Model, please use the following BibTeX entry.
 
 ```
 @article{UDCNet,
