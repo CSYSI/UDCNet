@@ -31,17 +31,18 @@ If you use UDCNet method in your research or wish to refer to the baseline resul
   year={2024}
 }
 ```
+
+```
+@article{UDCNet,
+  author={Sun, Yanguang and Yang, Jian and Luo, Lei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-14},
+  doi={10.1109/TGRS.2024.3497579}},
 ```
 
-@article{UDCNet,
-  title={United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images},
-  author={Sun, Yanguang and Yang, Jian and Luo, Lei},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  volume={},
-  pages={1--14}, 
-  year={2024},
-  publisher={IEEE},
-  doi={10.1109/TGRS.2024.3497579},
-}
-```
+
 
