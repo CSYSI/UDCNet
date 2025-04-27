@@ -1,7 +1,7 @@
 # UDCNet
 United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images
 
-Our work has been accepted for TGRS. The code is currently being organized and will be continuously updated.
+Our work has been accepted for TGRS 2024. The code is currently being organized and will be continuously updated.
 
 If you are interested in our work, please do not hesitate to contact us at Sunyg@njust.edu.cn via email.
 
