@@ -1,5 +1,5 @@
 # [TGRS 2024] United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images
-Yanguang Sun, Jian Yang, and Lei Luo
+Yanguang Sun, Jian Yang, Lei Luo
 
 Our work has been accepted for TGRS 2024. The code has already been open sourced.
 
