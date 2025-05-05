@@ -1,5 +1,4 @@
-# UDCNet
-United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images
+# [TGRS 2024] United Domain Cognition Network for Salient Object Detection in Optical Remote Sensing Images
 
 Our work has been accepted for TGRS 2024. The code has already been open sourced.
 
